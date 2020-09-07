@@ -1,0 +1,83 @@
+body{
+	background-color: #03A9F4;
+}
+#header-nav{
+	background-color: #FFC107;
+	border-radius: 0px;
+	border:0px;
+}
+
+#nav-list{
+	color: blue;
+}
+
+}
+#nav-list{
+	margin-bottom: 30px;
+}
+#nav-list a{
+	
+	text-align:center;	
+}
+#nav-list a:hover{
+	background:#03A9F4;
+}
+#nav-list a span{
+
+	text-align: center;
+}
+section{
+	border:2px solid black;
+	margin: 10px 20px 10px;
+	position: relative;
+	background-color: pink;
+
+}
+#chicken{
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color: #FF1439;
+}
+#beef{
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color: #FFFF00;	
+}
+#sushi{
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color: orange;
+}
+section p{
+	padding: 10px;
+
+}
+hr{
+	width: 50%;
+	background-color: black;
+}
+//button .navbar-toggler, button .navbar-toggler-icon{
+	border:1px solid #61122f;
+}
+
